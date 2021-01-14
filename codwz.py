@@ -1,11 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Oct 10 17:38:57 2020
-
-@author: CHFED
-"""
-
-#import sqlite3
 import locale
 import time
 import telepot
